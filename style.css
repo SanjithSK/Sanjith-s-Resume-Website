@@ -1,0 +1,196 @@
+body {
+  text-align: center;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+/* Intro */
+.background-color-1 {
+  background-color: #5bc0f8;
+}
+
+.intro-img {
+  border-radius: 20%;
+  margin-bottom: 200px;
+}
+
+.intro-heading {
+  font-family: "Comic Neue", cursive;
+  font-size: 4.5rem;
+  padding: 7% 15% 0;
+}
+
+.brand {
+  padding-left: 59px;
+}
+
+.nav-click {
+  padding-right: 20px;
+}
+
+/* Education */
+.edu-header {
+  padding: 7% 15%;
+}
+
+#education {
+  padding: 7% 15%;
+}
+
+/* Elements */
+h1 {
+  font-family: sans-serif;
+  font-size: 4.5rem;
+}
+
+#education h3 {
+  font-family: "Crete Round", serif;
+}
+
+#education p {
+  font-family: "Crete Round", serif;
+  color: #000000;
+}
+
+/* images */
+
+.award:hover {
+  color: grey;
+}
+
+.award {
+  color: #5bc0f8;
+}
+
+/* career */
+
+#career {
+  background-color: #5bc0f8;
+  padding: 7% 15%;
+}
+
+.career-h1 {
+  padding-top: 137px;
+}
+
+/* extra */
+#intro h1 {
+  color: #fff;
+}
+
+#intro p {
+  color: #fff;
+}
+
+#career h1 {
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+#career p {
+  color: #fff;
+}
+
+/* Projects */
+
+#Projects {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.project-link {
+  color: #5bc0f8;
+  display: inline-block;
+}
+
+.projects-h {
+  padding: 7% 15%;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #000;
+}
+
+.card {
+  padding: 10px 20px;
+}
+
+.card-link:hover {
+  color: #5bc0f8;
+}
+
+.card-link {
+  color: #58287f;
+  text-decoration: dotted 1px solid #58287f;
+}
+
+.card-1 {
+  margin-bottom: 20px;
+  color: #000;
+}
+
+.card-1 {
+  margin-top: 129px;
+}
+
+.card-2 {
+  margin-top: 183px;
+  color: #000;
+}
+
+/* Skills */
+
+#skills {
+  background-color: #5bc0f8;
+  color: #fff;
+  padding: 7% 15%;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.skills-h1 {
+  padding-bottom: 92px;
+}
+
+#about {
+  color: #000;
+  padding: 7% 15% 1%;
+  text-align: center;
+}
+
+.about-h1 {
+  padding-bottom: 100px;
+}
+
+.about-1 {
+  font-size: 1.1rem;
+  padding-bottom: 10px;
+}
+
+.about-mail:hover {
+  color: #fff;
+}
+
+.about-mail {
+  color: #000;
+}
+
+.about-bio {
+  background-color: #5bc0f8;
+  border-radius: 5%;
+  padding: 7% 15%;
+  color: #fff;
+}
+
+.knight-img {
+  width: 115%;
+  height: 76%;
+  margin-left: -24px;
+}
